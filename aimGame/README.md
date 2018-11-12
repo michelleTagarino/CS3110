@@ -2,6 +2,8 @@
 This (boring) JavaFX game was created for an assignment in an Introduction to Computer Graphics course back in Fall 2015. The *aim* of the game is to shoot as many targets as possible. 100 points wins you the game, but if you run out of bullets before reaching that goal, you lose and it's Game Over.
 
 ## Let's Get You Started
+Clone the CS3110 repository:
+	$ git clone https://github.com/michelleTagarino/CS3110.git
 
 In your terminal, cd into the **aimGame** directory:
 
