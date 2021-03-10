@@ -6,9 +6,9 @@ This one gives me a laugh. The goal of this assignment was to create a JavaFX pr
 	
 	Java JDK 8
 
-Clone the CS3110 repository:
+Clone the repository:
 
-	$ git clone https://github.com/michelleTagarino/CS3110.git
+	$ git clone https://github.com/michelleTagarino/JavaFX-Experiments.git
 
 In your terminal, cd into the **aimGame** directory:
 
