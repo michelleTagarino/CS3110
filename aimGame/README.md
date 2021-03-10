@@ -6,7 +6,7 @@ This (boring) JavaFX game was created for an assignment in an Introduction to Co
 	
 	Java JDK 8
 
-Clone the CS3110 repository:
+Clone the repository:
 
 	$ git clone https://github.com/michelleTagarino/JavaFX-Experiments.git
 
