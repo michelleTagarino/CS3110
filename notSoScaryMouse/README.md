@@ -8,7 +8,7 @@ This one gives me a laugh. The goal of this assignment was to create a JavaFX pr
 
 Clone the repository:
 
-	$ git clone https://github.com/michelleTagarino/JavaFX-Experiments.git
+	$ git clone https://github.com/michelleTagarino/ComputerGraphics.git
 
 In your terminal, cd into the **aimGame** directory:
 
