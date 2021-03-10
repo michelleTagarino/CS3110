@@ -8,7 +8,7 @@ This (boring) JavaFX game was created for an assignment in an Introduction to Co
 
 Clone the CS3110 repository:
 
-	$ git clone https://github.com/michelleTagarino/CS3110.git
+	$ git clone https://github.com/michelleTagarino/JavaFX-Experiments.git
 
 In your terminal, cd into the **aimGame** directory:
 
