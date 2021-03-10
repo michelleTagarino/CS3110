@@ -10,9 +10,9 @@ This JavaFX project involved a lot of math. Before jumping into this one, I thou
 	
 	Java JDK 8
 
-Clone the CS3110 repository:
+Clone the repository:
 
-	$ git clone https://github.com/michelleTagarino/CS3110.git
+	$ git clone https://github.com/michelleTagarino/JavaFX-Experiments.git
 
 In your terminal, cd into the **aimGame** directory:
 
